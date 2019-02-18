@@ -1,0 +1,8 @@
+prefix=/home/kiran/bot/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/kiran/bot/devel/include
+Libs: -L/home/kiran/bot/devel/lib 
+Requires: 

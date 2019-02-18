@@ -1,0 +1,8 @@
+prefix=/home/kiran/bot/devel
+
+Name: my_robot
+Description: Description of my_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kiran/bot/devel/lib 
+Requires: 
