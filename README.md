@@ -1,5 +1,5 @@
 # GoChaseIt
-There are two ROS packages inside your catkin_ws/src: the drive_bot and the ball_chaser. Here are the steps to design the robot, house it inside your world, and program it to chase white-colored balls:
+There are two ROS packages inside src: the drive_bot and the ball_chaser. Here are the steps to design the robot, house it inside your world, and program it to chase white-colored balls:
 
 ## drive_bot:
 <ul><li>  Create a my_robot ROS package to hold the robot, the white ball, and the world.</li>
